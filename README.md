@@ -3,7 +3,7 @@
 ## **Link**
 To see the Airbnb Copenhagen Dashboard please press <a href="https://public.tableau.com/views/Visualization-ProjectExam-AirBnBDashboard-Final_17591434286260/DB-Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" style="text-decoration: underline;">**here**</a>
 
---
+---
 
 # **Project Background**
 
@@ -11,7 +11,7 @@ The Copenhagen Airbnb market is dynamic and fragmented, making it difficult for 
 
 The two datasets utilized, were provided by CBS professors and they are not available online.
 
---
+---
 
 # **Data Structure & Initial Checks**
 
@@ -29,7 +29,7 @@ Initial checks included:
 
 These checks ensure that both datasets are consistent, complete, and ready for cleaning and transformation in Python before Tableau integration.
 
---
+---
 
 ## **Executive Summary**
 
@@ -45,7 +45,7 @@ Key findings include:
 
 - **Instant booking adoption**: Low percentage of properties offering instant booking suggests untapped potential to improve convenience and booking rates.
 
---
+---
 
 #### **Overview of Findings**
 
@@ -64,7 +64,7 @@ These findings provide a data-driven narrative, highlighting areas for:
 - **guest experience improvement**, and
 - **operational efficiency**.
 
---
+---
 
 #### **Recommendations**
 
